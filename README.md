@@ -29,4 +29,5 @@
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
 ![Jira](https://img.shields.io/badge/Jira-333333?style=flat&logo=jira)
 ![Golang](https://img.shields.io/badge/Go-333333?style=flat&logo=go)
+![Kotlin](https://img.shields.io/badge/Kotlin-333333?style=flat&logo=kotlin)
 

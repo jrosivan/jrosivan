@@ -30,4 +30,5 @@
 ![Jira](https://img.shields.io/badge/Jira-333333?style=flat&logo=jira)
 ![Golang](https://img.shields.io/badge/Go-333333?style=flat&logo=go)
 ![Kotlin](https://img.shields.io/badge/Kotlin-333333?style=flat&logo=kotlin)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
 

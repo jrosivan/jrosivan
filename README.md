@@ -26,5 +26,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
+![Jira](https://img.shields.io/badge/Jira-333333?style=flat&logo=jira)
+![Golang](https://img.shields.io/badge/Go-333333?style=flat&logo=go)
 
